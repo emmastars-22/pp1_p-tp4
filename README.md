@@ -18,3 +18,5 @@ Para este cuarto práctico será necesario que me entreguen una aplicación de F
 Este trabajo PUEDE ser realizado de a dos integrantes.
 Pueden trabajar a partir de lo que entregaron en el TPEvaluativo, sumandole todas estas features.
 La entrega será preferentemente por Github, en la medida de lo posible. Se usarán las horas de hoy (jueves) para realizar este práctico. Éxitos!!
+
+Nota: Hay dos archivos base de datos porque se movió la carpeta venv/
